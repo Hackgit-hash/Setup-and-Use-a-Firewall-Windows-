@@ -11,7 +11,7 @@ In this task, I configured and tested a firewall on my Windows system to underst
 - Windows Defender Firewall (built into Windows)
   
 - Command Prompt (for testing connection with Telnet)
-- 
+  
 
 **What I Did**
 
@@ -23,13 +23,16 @@ In this task, I configured and tested a firewall on my Windows system to underst
   
 4. Tested the block by trying to connect to port 23 using Telnet:
    
+   
 
    Command used:
+   
    
    telnet localhost 23
 
    
    Output what i got:
+   
    
     C:\Users\Lenovo>telnet localhost 23
     Connecting To localhost...Could not open connection to the host, on port 23: Connect failed
