@@ -39,24 +39,30 @@ In this task, I configured and tested a firewall on my Windows system to underst
    
 
    
-6. Verified that the firewall successfully blocked the port.
+5. Verified that the firewall successfully blocked the port.
+   
   
-7. Removed the test rule to restore normal settings.
-8. 
+6. Removed the test rule to restore normal settings.
+
 
 
 **Key Learnings**
 
+
 ##Firewalls control network traffic by allowing or blocking connections based on rules.
+
   
 ##Blocking insecure services, like Telnet, is an essential step in system hardening.
+
  
 ##Testing firewall rules ensures that the intended traffic is correctly blocked or allowed.
+
   
 ##Always clean up temporary rules after testing to avoid accidentally blocking needed connections.
 
 
 ## Screenshots / Evidence
+
 One of the final output screenshot is included
 
 
